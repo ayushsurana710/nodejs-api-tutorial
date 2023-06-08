@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "\"NodeJS API tutorial for Begineer\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start",
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}

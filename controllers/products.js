@@ -43,3 +43,4 @@ const getAllProductsTesting = async (req, res) => {
 };
 
 module.exports = { getAllProducts, getAllProductsTesting };
+console.log();
